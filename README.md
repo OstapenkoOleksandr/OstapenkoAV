@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OstapenkoAV
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning how to create apps via Flutter
-- 📫 How to reach me you can write me e-mail ostapenko.981510@gmail.com
+- 📫 How to reach me you can write me on my e-mail ostapenko.981510@gmail.com
 
 <!---
 OstapenkoAV/OstapenkoAV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
