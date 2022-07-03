@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OstapenkoAV
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning how to create apps via Flutter
 - 📫 How to reach me you can write me on my e-mail ostapenko.981510@gmail.com
 
 <!---
