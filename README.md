@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OstapenkoAV
-- 👀 I am a middle software developer at DieboldNixdorf Kyiv. Have experience in C++ and .Net core desctop developing.
+- 👀 I am a middle software developer at DieboldNixdorf Kyiv. Have experience in C++ and .Net core desktop-based software developing.
 - 📫 How to reach me you can write me on my e-mail ostapenko.981510@gmail.com
 
 <!---
